@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hehedaozuiteng.github.io/sitemap.xml
